@@ -156,7 +156,7 @@ Ahora que guardamos nuestros cambios localmente, vamos a querer compartir esos c
 ```
 
 La terminal te preguntará tu usuario y contraseña (En el caso de la contraseña cuando la estemos escribiendo por consola, por cuestiones de seguridad no se verá lo que estamos escribiendo). Escribimos estos datos y a continuación le damos enter y veremos un mensaje si todo fue "pusheado" correctamente:
-
+a
 ```bash
   Counting objects: 5, done.
   Delta compression using up to 8 threads.
